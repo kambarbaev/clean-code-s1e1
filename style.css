@@ -25,9 +25,9 @@ body {
   margin: 0 auto 0;
 }
 .todo__task-list {
-  margin:0;
+  margin: 0;
   padding: 0px;
-  list-style:none;
+  list-style: none;
 }
 .todo__input-task,
 .task-item__text {
@@ -39,8 +39,8 @@ body {
   display: flex;
 }
 .todo__input-task,
-.todo__btn{
-  outline:none;
+.todo__btn {
+  outline: none;
 }
 .todo__btn {
   background: none;
@@ -118,11 +118,11 @@ body {
 }
 /* todo task-item--edit */
 .todo__task-list .todo__input-task {
-  display:none
+  display: none
 }
 .task-item--edit .todo__input-task {
-  display:inline-block;
-  width:224px
+  display: inline-block;
+  width: 224px
 }
 .task-item--edit .task-item__text {
   display: none;
@@ -133,7 +133,7 @@ body {
   color: #888;
 }
 /* media query*/
-@media (max-width:768px) {
+@media (max-width: 768px) {
 
   .main-header {
     text-align: center;

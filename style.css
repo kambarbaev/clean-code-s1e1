@@ -2,7 +2,7 @@
 body {
   background-color: #f8f8f8;
   color: #333;
-  font-family: Lato, sans-serif;
+  font-family: "Lato", sans-serif;
 }
 /* Header Style */
 .main-header {
@@ -15,7 +15,7 @@ body {
   width: 100%;
 }
 .main-header .header__link {
-  font-family: 'fantasy', cursive;
+  font-family: "fantasy", cursive;
 }
 /* Todo Style */
 /* todo basic */
@@ -46,7 +46,7 @@ body {
   color: #888;
   font-size: 15px;
   width: 60px;
-  font-family: Lato, sans-serif;
+  font-family: "Lato", sans-serif;
   cursor: pointer;
 }
 .todo__btn:hover {
@@ -71,7 +71,7 @@ body {
   border: 1px solid #ddd;
   background: #fff;
   border-radius: 6px;
-  font-family: Lato, sans-serif;
+  font-family: "Lato", sans-serif;
   color: #888;
 }
 .todo__input-task:focus {
@@ -89,7 +89,7 @@ body {
   padding: 0px 0;
 }
 /* todo current-section */
-.todo__input-line {  /* d общие */
+.todo__input-line {
   overflow: hidden;
   padding: 20px 0;
   border-bottom: 1px solid #eee;

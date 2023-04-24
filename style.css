@@ -33,7 +33,7 @@ body {
 .task-item__text {
   width: 56%;
   display: inline-block;
-  flex-grow: 1
+  flex-grow: 1;
 }
 .todo__input-line {
   display: flex;
@@ -118,11 +118,11 @@ body {
 }
 /* todo task-item--edit */
 .todo__task-list .todo__input-task {
-  display: none
+  display: none;
 }
 .task-item--edit .todo__input-task {
   display: inline-block;
-  width: 224px
+  width: 224px;
 }
 .task-item--edit .task-item__text {
   display: none;

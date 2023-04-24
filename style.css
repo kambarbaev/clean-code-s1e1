@@ -29,7 +29,8 @@ body {
   padding: 0px;
   list-style:none;
 }
-.todo__input-task, .task-item__text {
+.todo__input-task,
+.task-item__text {
   width: 56%;
   display: inline-block;
   flex-grow: 1
@@ -37,7 +38,8 @@ body {
 .todo__input-line {
   display: flex;
 }
-.todo__input-task, .todo__btn{
+.todo__input-task,
+.todo__btn{
   outline:none;
 }
 .todo__btn {
